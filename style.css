@@ -6,33 +6,28 @@ body {
     margin-bottom: 10px ;
     width: 100%;
 }
-
-#square1 {
-    width: 180px;
-    height: 150px;
-    margin: 0 auto;
-    background-color:rgba(0, 0, 0)
-}
-
-#square2 {
-    width: 180px;
-    height: 150px;
-    margin: 0 auto;
-    background-color:rgba(60, 60, 60)
-}
-
-#square3 {
-    width: 180px;
-    height: 150px;
-    margin: 0 auto;
-    background-color:rgba(120, 120, 120)
-}
-
+#square1,
+#square2,
+#square3,
 #square4 {
     width: 180px;
     height: 150px;
     margin: 0 auto;
-    background-color:rgba(180, 180, 180)
 }
 
+#square1 {
+    background-color:rgba(0, 0, 0)
+}
+
+#square2 {
+    background-color:rgba(60, 60, 60)
+}
+
+#square3 {
+    background-color:rgba(120, 120, 120)
+}
+
+#square4 {
+    background-color:rgba(180, 180, 180)
+}
 
