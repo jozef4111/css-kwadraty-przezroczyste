@@ -2,10 +2,6 @@ body {
     background-color: #f5f5dd;
 }
 
-.top {
-    margin-bottom: 10px ;
-    width: 100%;
-}
 #square1,
 #square2,
 #square3,
@@ -13,6 +9,7 @@ body {
     width: 180px;
     height: 150px;
     margin: 0 auto;
+    margin-bottom: 10px ;
 }
 
 #square1 {
